@@ -5,6 +5,7 @@ include: package:flutter_lints/flutter.yaml
 
 linter:
   rules:
+    public_member_api_docs: false
     # # https://dart.dev/tools/linter-rules#prefer_double_quotes
     # - prefer_double_quotes
     # # https://dart.dev/tools/linter-rules#prefer_null_aware_operators
